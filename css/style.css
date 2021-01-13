@@ -1,0 +1,97 @@
+.logo{
+    height: 50px;
+}
+.logo-2{
+    height: 500px;
+}
+.logo-name{
+    color: #76C27E;
+    font-size: 30px;
+}
+.logo-name-2{
+    color: #363958;
+    font-size: 30px;
+}
+.head{
+    background-color: #FFFFF4;
+}
+.font-size{
+    font-weight: bold;
+}
+.font-size-1{
+    font-weight: bold;
+    font-size: 70px;
+    letter-spacing: 0px;
+    color: #363958;
+    margin-bottom: 0px;
+}
+.font-size-2{
+    font-weight: bold;
+    font-size: 70px;
+    letter-spacing: 0px;
+    color: #76C27E;
+}
+.first-section p{
+    margin: 20px 0px;
+}
+.button{
+    height: 60px;
+     width: 170px;
+    background-color: #2A1E59;
+    color: #fff;
+    border-radius: 10px;
+}
+i{
+    margin-right: 7px;
+}
+.middle-div img{
+    height: 80px;
+}
+.border-radius{
+    border-radius: 10px;
+    padding: 5px;
+}
+.color{
+    color: #363958;
+}
+.relative{
+    position: relative;
+    left: -67px;
+}
+.logo-3{
+    height: 305px;
+}
+.margin h2{
+     
+    color: #363958;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.background{
+   background-color:#F1F1F1 ;
+   border-radius: 10px;
+   
+}
+.border-none{
+    border: none;
+}
+.card-bg{
+    background-color: #FFFFFF;
+
+}
+h5{
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.color1{
+   color: #76C27E;
+}
+.last-content{
+    border-radius: 10px;
+}
+.icon{
+    font-size: 30px;
+    color: #fff;
+    
+} 
+ 
